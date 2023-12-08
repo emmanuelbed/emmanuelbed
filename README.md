@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working on **FinTech Products**
 
-- 🌱 I’m currently learning **Python & Java**
-
 - 👯 I’m looking to collaborate on **Financial Technology Projects**
 
 - 💬 Ask me about **Python, C++, and Databases**
