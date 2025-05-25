@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Emmanuel</h1>
-<h3 align="center">A passionate full-stack developer from Ghana</h3>
+<h3 align="center">A passionate full-stack dev.</h3>
 
 - 🔭 I’m currently working on **FinTech Products**
 
